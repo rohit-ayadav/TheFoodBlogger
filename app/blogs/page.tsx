@@ -1,4 +1,4 @@
-"use client";
+"use client"; 
 import React, { use, useCallback, useEffect, useState } from 'react'
 import { StatsType } from '@/types/blogs-types';
 import { BlogPostType, UserType, stateType } from '@/types/blogs-types';
