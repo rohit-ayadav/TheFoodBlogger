@@ -15,7 +15,7 @@ const sendOTP = async ({
     otp,
     userName,
     companyInfo = {
-        name: 'DevBlogger',
+        name: 'The Food Blogger',
         logo: 'https://www.devblogger.in/logo.png',
         website: 'https://www.devblogger.in',
         supportEmail: 'support@devblogger.com'
