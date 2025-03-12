@@ -118,6 +118,6 @@ const page = () => {
       Hello world
     </div>
   )
-}
+} 
 
 export default page
